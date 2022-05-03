@@ -1,0 +1,51 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 734px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  width: 598px;
+  margin: 57px auto 0;
+}
+
+.u-section-1 .u-table-1 {
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+
+.u-block-f189-83 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-header-1 {
+  font-weight: 700;
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-6 {
+  border-style: solid;
+}
+
+.u-section-1 .u-table-cell-7 {
+  background-image: none;
+}
+
+.u-block-f189-110 {
+  background-image: none;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+}

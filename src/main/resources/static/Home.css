@@ -1,0 +1,64 @@
+ .u-section-1 {
+  background-image: url("images/6-Reasons-Your-Ecommerce-Site-Needs-a-Blog-Booster-Shot.png");
+  background-position: 50% 56.62%;
+  min-height: 100vh;
+}
+
+.u-section-1 .u-image-1 {
+  width: 143px;
+  height: 143px;
+  margin: 6px auto 0 calc(((100% - 1140px) / 2) + -39px);
+}
+
+.u-section-1 .u-text-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: "PT Sans", sans-serif;
+  margin: -111px calc(((100% - 1140px) / 2) + 589px) 60px calc(((100% - 1140px) / 2) + 125px);
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-left: calc(((100% - 940px) / 2) + -39px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -112px;
+    margin-right: calc(((100% - 940px) / 2) + 629px);
+    margin-left: calc(((100% - 940px) / 2) + 25px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-left: calc(((100% - 720px) / 2) + -39px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: calc(((100% - 720px) / 2) + 519px);
+    margin-left: calc(((100% - 720px) / 2));
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-left: calc(((100% - 540px) / 2) + -39px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: calc(((100% - 540px) / 2) + 429px);
+    margin-left: calc(((100% - 540px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-left: calc(((100% - 340px) / 2) + -39px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: calc(((100% - 340px) / 2) + 329px);
+    margin-left: calc(((100% - 340px) / 2));
+  }
+}
